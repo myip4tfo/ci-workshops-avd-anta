@@ -1,5 +1,5 @@
 ---
-fabric_name: CAMPUS_A_FABRIC  
+fabric_name: CAMPUS_A_FABRIC
 
 # Repeat MLAG addressing between pairs
 fabric_ip_addressing:
